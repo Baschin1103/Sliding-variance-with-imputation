@@ -1,0 +1,1 @@
+In this repository you find the data-file and the python script to calculate the sliding variance. Before the calculation missing values are treated in some ways. In the end the results are exported as excel-files.
